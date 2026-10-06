@@ -1,0 +1,5 @@
+customtkinter>=5.2.2
+psutil>=5.9.8
+pystray>=0.19.5
+plyer>=2.1.0
+pillow>=10.0.0
